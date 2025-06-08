@@ -1,6 +1,0 @@
----
-description: 
-globs: 
-alwaysApply: false
----
-Sempre implemente uma funcionalidade por vez. Divida prompts grandes.
