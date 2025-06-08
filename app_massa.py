@@ -3,7 +3,7 @@
 """
 App Massa - Processador de NF-e em Massa
 Interface gráfica para processamento em lote de XMLs
-Desenvolvido por Seninhor - Dev Senior 8+ anos
+Desenvolvido por Thucosta
 """
 
 import os
