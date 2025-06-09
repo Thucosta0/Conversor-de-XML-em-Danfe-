@@ -177,7 +177,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 **Thucosta**
 
 - GitHub: [@thucosta](https://github.com/thucosta)
-- LinkedIn: [Thiago Costa](https://linkedin.com/in/thucosta)
+- LinkedIn: [Arthur Costa](https://linkedin.com/in/thucosta)
 
 
 ## 📊 Status do Projeto
